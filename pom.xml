@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>crong</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>deploy_render-1.0.0</version>
 	<name>crong</name>
 	<description>crong</description>
 	<url/>
